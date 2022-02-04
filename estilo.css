@@ -1,0 +1,15 @@
+div.columna1,
+div.columna2,
+div.columna3 {
+    width: 33%;
+    float: left;
+}
+
+div.columna-2 {
+    background-color: coral;
+    text-align: center;
+}
+
+div.testimonio {
+
+}
