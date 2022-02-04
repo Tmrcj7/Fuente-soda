@@ -7,9 +7,17 @@ div.columna3 {
 
 div.columna-2 {
     background-color: coral;
+}
+
+div.testimonio {
+    padding: 30px;
     text-align: center;
 }
 
 div.testimonio {
+    height: 100px;
+}
 
+div.clearfix {
+    clear:both
 }
